@@ -8,3 +8,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=freezetheflame&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezetheflame&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freezetheflame&show_icons=true&locale=en" alt="jmfayard" /></p>
